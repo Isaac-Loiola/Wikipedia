@@ -39,3 +39,7 @@ a {
 figure {
     text-align: center;
 }
+
+#rodape{
+    text-align-last: center;
+}
